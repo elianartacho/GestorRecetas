@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recetas>
+    <receta id="1">
+        <nombre>Tortilla de patatas</nombre>
+        <descripcion>Pelar y freír las patatas, mezclarlas con huevo batido y cuajar la tortilla.</descripcion>
+        <tiempoNecesario>35</tiempoNecesario>
+        <ingredientes>
+            <ingrediente>patatas</ingrediente>
+            <ingrediente>huevos</ingrediente>
+            <ingrediente>cebolla</ingrediente>
+            <ingrediente>aceite</ingrediente>
+            <ingrediente>sal</ingrediente>
+        </ingredientes>
+    </receta>
+    <receta id="2">
+        <nombre>Gazpacho</nombre>
+        <descripcion>Triturar todos los ingredientes y servir frío.</descripcion>
+        <tiempoNecesario>15</tiempoNecesario>
+        <ingredientes>
+            <ingrediente>tomates</ingrediente>
+            <ingrediente>pepino</ingrediente>
+            <ingrediente>pimiento</ingrediente>
+            <ingrediente>ajo</ingrediente>
+            <ingrediente>aceite</ingrediente>
+            <ingrediente>vinagre</ingrediente>
+            <ingrediente>sal</ingrediente>
+        </ingredientes>
+    </receta>
+    <receta id="3">
+        <nombre>Pasta con tomate</nombre>
+        <descripcion>Cocer la pasta y mezclarla con una salsa de tomate casera.</descripcion>
+        <tiempoNecesario>25</tiempoNecesario>
+        <ingredientes>
+            <ingrediente>pasta</ingrediente>
+            <ingrediente>tomate</ingrediente>
+            <ingrediente>ajo</ingrediente>
+            <ingrediente>aceite</ingrediente>
+            <ingrediente>orégano</ingrediente>
+            <ingrediente>sal</ingrediente>
+        </ingredientes>
+    </receta>
+    <receta id="4">
+        <nombre>Ensalada mixta</nombre>
+        <descripcion>Lavar y cortar los ingredientes, y aliñar al gusto.</descripcion>
+        <tiempoNecesario>20</tiempoNecesario>
+        <ingredientes>
+            <ingrediente>lechuga</ingrediente>
+            <ingrediente>tomate</ingrediente>
+            <ingrediente>atún</ingrediente>
+            <ingrediente>huevo</ingrediente>
+            <ingrediente>aceitunas</ingrediente>
+            <ingrediente>aceite</ingrediente>
+        </ingredientes>
+    </receta>
+    <receta id="5">
+        <nombre>Arroz con verduras</nombre>
+        <descripcion>Sofreír las verduras, añadir el arroz y cocinar con el caldo.</descripcion>
+        <tiempoNecesario>40</tiempoNecesario>
+        <ingredientes>
+            <ingrediente>arroz</ingrediente>
+            <ingrediente>zanahoria</ingrediente>
+            <ingrediente>pimiento</ingrediente>
+            <ingrediente>guisantes</ingrediente>
+            <ingrediente>caldo</ingrediente>
+            <ingrediente>aceite</ingrediente>
+        </ingredientes>
+    </receta>
+    <receta id="6">
+        <nombre>Tortitas de plátano</nombre>
+        <descripcion>Mezclar los ingredientes y cocinar pequeñas porciones en una sartén.</descripcion>
+        <tiempoNecesario>20</tiempoNecesario>
+        <ingredientes>
+            <ingrediente>plátano</ingrediente>
+            <ingrediente>huevo</ingrediente>
+            <ingrediente>harina</ingrediente>
+            <ingrediente>leche</ingrediente>
+            <ingrediente>aceite</ingrediente>
+        </ingredientes>
+    </receta>
+    <receta id="7">
+        <nombre>bizcoho</nombre>
+        <descripcion>Mezclar y hornear</descripcion>
+        <tiempoNecesario>60</tiempoNecesario>
+        <ingredientes>
+            <ingrediente>leche</ingrediente>
+            <ingrediente>huevos</ingrediente>
+            <ingrediente>azucar</ingrediente>
+        </ingredientes>
+    </receta>
+</recetas>
